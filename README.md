@@ -36,6 +36,6 @@ We are in early development. If you think you can help make this better:
 
 [Discord Server] • [Dev Roadmap]
 
-*Made by the BattlesOfBrass Team.*
+*Made in EU by the BattlesOfBrass Team. 🇪🇺*
 
 -----
