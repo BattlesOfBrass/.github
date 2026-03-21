@@ -8,8 +8,9 @@ Welcome to the forge. **BattlesOfBrass** is a tactical strategy game heavily ins
 
 We are focusing on strategics and community drivenness, thats why we want to achieve:
 
-  * **Grid-Based Lethality:** Positioning is everything. If you're out in the open, you're dead. No RNG to save you here; just pure tactics.
-  * **A Simple and Fair Game:** Under the hood, we're prioritizing deterministic logic so the game stays consistent for your playstyle!
+  * **Grid-Based Lethality:** Positioning is everything. If you leave your front open you are dead. No RNG to save you here; just pure tactics.
+   
+  * **A Simple and Fair Game:** Under the hood, we're prioritizing deterministic logic while keeping it in a good balance with the enemy AI so the game stays consistent and won't get frustrating!
 
   * **Multiplayer:** Since everybody loves playing with their friends, this game has multiplayer support!
     
