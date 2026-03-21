@@ -17,7 +17,7 @@ We are focusing on strategics and community drivenness, thats why we want to ach
 
 Everything we’re building is consolidated into one place:
 
-  * **[BattlesOfBrass-SRC](https://github.com/battlesofbrass/BON):** The engine, the mechanics, and the mess. This is the only repo you need to worry about.
+  * **[BattlesOfBrass-SRC (Core)](https://github.com/BattlesOfBrass/BOB):** The engine, the mechanics, and the mess. This is the only repo you need to worry about.
 
 ## 🤝 Want to help?
 
