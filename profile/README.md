@@ -16,7 +16,7 @@ We are focusing on strategics and community drivenness, thats why we want to ach
     
 ## 📂 The Source
 
-Everything we’re building is consolidated into one place:
+Everything we’re building is consolidated into two places:
 
   > * **[BattlesOfBrass-SRC (Core)](https://github.com/BattlesOfBrass/BOB):** The SRC Repo for the game!
   
