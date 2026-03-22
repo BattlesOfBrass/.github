@@ -1,14 +1,14 @@
 -----
 
-# BattlesOfBrass ⚔️🚂
+# BattlesOfBrass ⚔️
 
 Welcome to the forge. **BattlesOfBrass** is a tactical strategy game heavily inspired by the mechanics of *Spirits of Steel*. We’re building this for the players who miss a good strategy game which just works.
 
-## 🕹️ The Core Loop
+## 🕹️ Our Goals
 
 We are focusing on strategics and community drivenness, thats why we want to achieve:
 
-  * **Grid-Based Lethality:** Positioning is everything. If you leave your front open you are dead. No RNG to save you here; just pure tactics.
+  * **A Strategy Game:** Positioning is everything. If you leave your front open you are dead. No RNG to save you here; just pure tactics.
    
   * **A Simple and Fair Game:** Under the hood, we're prioritizing deterministic logic while keeping it in a good balance with the enemy AI so the game stays consistent and won't get frustrating!
 
@@ -18,7 +18,9 @@ We are focusing on strategics and community drivenness, thats why we want to ach
 
 Everything we’re building is consolidated into one place:
 
-  * **[BattlesOfBrass-SRC (Core)](https://github.com/BattlesOfBrass/BOB):** The engine, the mechanics, and the mess. This is the only repo you need to worry about.
+  > * **[BattlesOfBrass-SRC (Core)](https://github.com/BattlesOfBrass/BOB):** The SRC Repo for the game!
+  
+  > * **[BattlesOfBrass-Assets](https://github.com/BattlesOfBrass/assets):** The Core Assets for the game!
 
 ## 🤝 Want to help?
 
