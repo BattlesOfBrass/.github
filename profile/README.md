@@ -10,7 +10,7 @@ We are focusing on strategics and community drivenness, thats why we want to ach
 
   * **A Strategy Game:** Positioning is everything. If you leave your front open you are dead. No RNG to save you here; just pure tactics.
    
-  * **A Simple and Fair Game:** Under the hood, we're prioritizing deterministic logic while keeping it in a good balance with the enemy AI so the game stays consistent and won't get frustrating!
+  * **A Simple and Fair Game:** Under the hood, we'll prioritizing deterministic logic while keeping it in a good balance with the enemy AI so the game stays consistent and won't get frustrating!
 
   * **Multiplayer:** Since everybody loves playing with their friends, this game has multiplayer support!
     
