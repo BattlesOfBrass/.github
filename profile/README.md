@@ -29,7 +29,7 @@ We are still in early development. If you think you can help make this better:
 *  **Don't break the build:** Standard rules apply.
 
 > [\!WARNING]
-> Currently the game is more of a bad MS-Paint clone with some extra functionality.
+> Currently the game is in it's early stages and doesn't have pv(p/e) or troops yet!
 
 > This is a work in progress. Things will break, expect issues and frequent updates and changes!
 
